@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+import logo from './KlogoGreen.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="KlogoGreen" />
         <p>
-          Kenneth's site is underconstruction boiiiiiiiiii.
+          Kenneth's site is under construction boiiiiiiiiii.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My LinkedIn
+          LinkedIn
         </a>
       </header>
     </div>
