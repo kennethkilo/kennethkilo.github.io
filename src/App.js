@@ -7,8 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="KlogoGreen" />
         <p>
-          Kenneth's site is under construction boiiiiiiiiii.
+          Recruiters: Website password is contained in my resume :)
         </p>
+
+        <form>
+          
+          <input type="text" id="pass" name="pass" ></input><br></br>
+          <input type="submit" value="Submit"></input>
+        </form>
+        <br></br>
         <a
           className="App-link"
           href="https://www.linkedin.com/in/wukenneth/"
