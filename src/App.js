@@ -9,9 +9,7 @@ function App() {
         <p>
           Recruiters: Website password is contained in my resume :)
         </p>
-
         <form>
-          
           <input type="text" id="pass" name="pass" ></input><br></br>
           <input type="submit" value="Submit"></input>
         </form>
